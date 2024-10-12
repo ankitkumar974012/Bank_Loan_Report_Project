@@ -1,1 +1,10 @@
 # Bank_Loan_Report_Project
+
+This is a data analyst portfolio project that focuses on analyzing data from the financial domain, specifically related to a bank loan. The dataset, acquired from Folder—Google Drive, contains over 238577 records. The project involves creating dynamic and interactive dashboards using Excel as a tool. The dashboard is divided into two main parts: a Summary Dashboard and an Overview Dashboard, both of which are designed to provide a detailed analysis of the bank loan data.
+
+  The Summary Dashboard contains various components, including header KPIs that provide an overview of the summary report, small KPIs indicating the business performance for a specific month compared to the previous month, and secondary KPIs that focus on good and bad loan percentages. Additionally, the dashboard includes custom charts, custom calculations, and loan status charts to visualize different performance measures. It is entirely dynamic and interactive, allowing users to slice and dice the data using available filters.
+   The Overview Dashboard, accessible through a button on the Summary Dashboard, provides a more detailed analysis of the data, delving into granular insights to understand how the business is performing at a deeper level. Like the Summary Dashboard, it includes header KPIs for consistent comparison, along with six charts displaying the total loan applications by month, state, term, employee, purpose, and home ownership. Similar to the Summary Dashboard, the Overview Dashboard is also fully dynamic and can be operated using various filters to gain multiple insights.
+
+   Additionally, I have designed everything on a single sheet and put it as a details tab on both dashboards, excluding the dashboard sheet, to ensure clarity without creating chaos in the entire workbook.
+
+Overall, the project aims to provide a detailed and comprehensive analysis of the bank loan data, allowing for interactive exploration and visualization of key performance indicators and insights.
